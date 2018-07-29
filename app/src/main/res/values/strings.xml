@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Form Task1</string>
+
+    <string-array name="names">
+        <item>Request Type</item>
+        <item>1: Owner</item>
+        <item>2: Manager</item>
+        <item>3: Other</item>
+    </string-array>
+
+</resources>
